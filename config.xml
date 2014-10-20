@@ -2,13 +2,13 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "be.anso.www"
+        id        = "be.tuboma.www"
         version   = "1.0.0">
 
-    <name>Anso Resto &amp; Bistro</name>
+    <name>Tuboma</name>
 
     <description>
-        Restaurant-Bistro Anso, reeds meer dan 35 jaar een gevestigde culinaire waarde in een aangenaam, rustiek kader te Geraardsbergen. U kan genieten van een excellente keuken, we serveren lunch en U kan er à la carte eten.
+        U kan bij ons terecht voor het huren van uw tuin- en bouw materialen. Kom gerust naar onze toonzaal, gelegen in de Gentstraat te Oudenaarde, waar u steeds de laatste modellen kan bewonderen.
     </description>
 
     <author href="http://my-websitebuilder.com" email="support@my-websitebuilder.com">
